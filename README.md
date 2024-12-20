@@ -40,16 +40,20 @@ The total number of employees is 1,470.
 
 ii.What is the gender distribution of employees in the company
 Male Employees: 882
+
 Female Employees: 588.
 
 iii.What percentage of employee are due for promotion and not due for promotion: 
 Due for promotion:25%
+
 Not due for Promotion:75%.
 
 iv. What number of active employee are present in the company?
+
 Total active employees: 1,233.
 
 v. what number of employee are due for retirement?
+
 Total employees due for retirement: 373.
 
 vi. The amount of employee at each level?
