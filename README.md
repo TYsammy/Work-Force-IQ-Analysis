@@ -60,7 +60,11 @@ Total employees due for retirement: 373.
 vi. The amount of employee at each level?
 
 Level 1: 543 employees
+
 Level 2: 534 employees
+
 Level 3: 218 employees
+
 Level 4: 106 employees
+
 Level 5: 69 employees
