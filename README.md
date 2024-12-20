@@ -43,7 +43,8 @@ Male Employees: 882
 
 Female Employees: 588.
 
-iii.What percentage of employee are due for promotion and not due for promotion: 
+iii.What percentage of employee are due for promotion and not due for promotion:
+
 Due for promotion:25%
 
 Not due for Promotion:75%.
